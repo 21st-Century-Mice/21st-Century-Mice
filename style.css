@@ -1,6 +1,6 @@
 a {
     font-family: Courier;
-    font-color: green;
+    color: green;
 }
 
 h1 {
@@ -10,11 +10,12 @@ h1 {
 }
 
 p {
-  font-family: "Lucida Console", Monaco, monospace;
-  font-color:rgb(216, 174, 71);
+  font-family: "Lucida Console", Monaco;
+  color:rgb(158, 70, 36);
 }
 h3 {
-  font-family:"Trebuchet MS", Helvetica, sans-serif ;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  color: rgb(34, 58, 94);
 
 }
 body {
