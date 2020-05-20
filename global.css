@@ -1,0 +1,60 @@
+* {
+    font-family: monospace;
+    background: transparent;
+    color: green;
+}
+
+body {
+    background: rgb(210, 143, 96);
+}
+
+#navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: darkorange;
+}
+
+#navbar > li {
+    float: left;
+    background: darkorange;
+}
+
+#navbar > li > a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    background: darkorange;
+    font-size: 25px;
+}
+
+#navbar > li > a:hover {
+    background-color: brown;
+}
+
+.this {
+    background: brown !important;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background: transparent;
+}
+
+img {
+    width: 300px;
+    margin-top: 2px;
+    margin-right: 2px;
+    float: right;
+    background: darkorange;
+}
+
+.board {
+    background: transparent;
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin: auto;
+}
