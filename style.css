@@ -1,4 +1,23 @@
 a {
     font-family: Courier;
-    font-color: yellow;
+    font-color: green;
+}
+
+h1 {
+  font-family: Fantasy;
+  text-decoration: overline;
+  color:green
+}
+
+p {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-color:rgb(216, 174, 71);
+}
+h3 {
+  font-family:"Trebuchet MS", Helvetica, sans-serif ;
+
+}
+body {
+  background-color:rgb(210, 143, 96);
+  
 }
