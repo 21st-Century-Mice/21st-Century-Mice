@@ -9,4 +9,4 @@ If you have an idea on how to improve the website, leave your suggestions as an 
 
 There are sevral problems right now, we are working very hard to fix them.
 
-You can ask to join the group 21st-Century-Mice, and you should say why you want to join. Then you will be allowed to contribute on the website. If you want to, you could also mybe help with the animations.
+You can ask to join the group 21st-Century-Mice, and you should say why you want to join. Then you will be allowed to contribute on the website. If you want to, you could also mybe help with the animations. 
