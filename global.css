@@ -1,0 +1,72 @@
+* {
+    font-family: monospace;
+    background: transparent;
+    color: green;
+}
+
+body {
+    background: rgb(210, 143, 96);
+}
+
+#navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: darkorange;
+}
+
+.logo {
+    float: right;
+    margin-top: 2px;
+    margin-right: 2px;
+    width: 350px;
+}
+
+#navbar > li {
+    float: left;
+    background: darkorange;
+}
+
+#navbar > li > a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    background: darkorange;
+    font-size: 25px;
+}
+
+#navbar > li > a:hover {
+    background-color: brown;
+}
+
+.this {
+    background: brown !important;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background: transparent;
+}
+
+
+.board {
+    text-align: center;
+}
+
+.board-banner,
+.board-wrap {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.board-banner {
+    font-size: 60px;
+    width: 500px;
+    top: 25%;
+}
