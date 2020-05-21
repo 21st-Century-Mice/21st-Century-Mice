@@ -1,7 +1,8 @@
 # 21st-Century-Mice
-This is the public site for the 21st Century Mice.
 
-Created by ChezCoder, Bookie0, FunnyLamma, Codemonkey and Python-Programmer8.
+## Created by ChezCoder, Bookie0, FunnyLamma, Codemonkey and Python-Programmer8.
+
+This is the public site for the 21st Century Mice.
 
 The website is currently up and running. 
 
