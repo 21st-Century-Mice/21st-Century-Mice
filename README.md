@@ -10,3 +10,5 @@ There are sevral problems right now, we are working very hard to fix them.
 Thanks for visiting! :)
 
 If you want to contribute, read this.
+
+You can ask to join the group 21st-Century-Mice, and you should say why you want to join. Then you will be allowed to contribute on the website.
