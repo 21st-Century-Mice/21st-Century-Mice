@@ -9,4 +9,4 @@ There are sevral problems right now, we are working very hard to fix them.
 
 Thanks for visiting! :)
 
-Readme2
+If you want to contribute, read this.
